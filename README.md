@@ -17,9 +17,13 @@ WORK IN PROGRESS
 </div>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurDelannoyazerty&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurDelannoyazerty&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurDelannoyazerty&theme=transparent" />
+  </a>
+  </br>
+  </br>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurDelannoyazerty&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
+  </a>
+</div>
