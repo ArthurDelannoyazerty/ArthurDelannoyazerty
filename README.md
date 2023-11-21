@@ -63,18 +63,19 @@ Here is one of my last main personnal project :
   <tr>
     <th><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></th>   <!-- jupyter -->
     <th><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></th>   <!-- mysql -->
+    <th><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/></th>   <!-- php -->
     <th><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></th>   <!-- c++ -->
   </tr>
   <tr>
     <th><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></th>   <!-- pytorch -->
     <th><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></th>   <!-- leetcode -->
-    <th><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/></th>   <!-- php -->
+    <th><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></th>   <!-- javascript -->
     <th></th>
   </tr>
   <tr>
     <th><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></th>   <!-- tensorflow -->
     <th></th>
-    <th><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></th>   <!-- javascript -->
+    <th></th>
     <th></th>
   </tr>
 </table>
