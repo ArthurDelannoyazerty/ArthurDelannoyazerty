@@ -25,8 +25,6 @@ Here is one of my last main personnal project :
   </table>
 </div><br/>
 
-
-
 # 📭 Contact
 
 <p align="center">
@@ -64,13 +62,12 @@ Here is one of my last main personnal project :
   </tr>
   <tr>
     <th><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></th>   <!-- jupyter -->
-    <th><img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/></th>   <!-- scala -->
     <th><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></th>   <!-- mysql -->
     <th><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></th>   <!-- c++ -->
   </tr>
   <tr>
     <th><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></th>   <!-- pytorch -->
-    <th></th>
+    <th><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></th>   <!-- leetcode -->
     <th><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/></th>   <!-- php -->
     <th></th>
   </tr>
@@ -90,6 +87,7 @@ Here is one of my last main personnal project :
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurDelannoyazerty&theme=transparent)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurDelannoyazerty&theme=transparent)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/user2868PG?theme=nord&font=Roboto%20Condensed)
 </div>
 
 
