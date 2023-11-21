@@ -1,29 +1,99 @@
-WORK IN PROGRESS
+<h1 align="center">Hello 👋, I'm Arthur Delannoy !</h1>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/arthur-delannoy/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=ArthurDelannoyAzerty&style=flat-square&color=blue" alt="" onclick="return false;"/>
+<br>
+
+# 👦 About me 
+
+I'm a french student in the final year of a master's degree in computer science as ESEO, with a focus on Artificial Intelligence.
+
+You can find in my repositories many school projects, personnal projects and some code for competitions.
+
+Here is one of my last main personnal project : 
+<br/><br/>
+<div align="center">
+  <table>
+    <tr>
+      <th>
+        <div align="left" >
+          <a href="https://github.com/vuejs/vue](https://github.com/ArthurDelannoyazerty/OpenCV-GUI">OpenCV-GUI</a> <br/><br/>
+          A local GUI program that provide a real-time transformation<br/>
+          of the image pipeline with customizable OpenCV functions.<br/>
+          (exe available)<br/>
+        </div>
+      </th>
+    </tr>
+  </table>
+</div><br/>
 
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
+# 📭 Contact
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/arthur-delannoy/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:ah.delannoy@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+</p>
+
+<br>
+
+# 📚 Skills
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurDelannoyazerty&theme=transparent" />
-  </a>
-  </br>
-  </br>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurDelannoyazerty&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
-  </a>
+<table>
+  <tr>
+    <th>Data Science</th>
+    <th>Software Engineering</th> 
+    <th>Web</th>
+    <th>Embedded Software</th>
+  </tr>
+  <tr>
+    <th><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></th>   <!-- Python -->
+    <th><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></th>   <!-- java -->
+    <th><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/></th>   <!-- html -->
+    <th><img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/></th>   <!-- C -->
+  </tr>
+  <tr>
+    <th><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></th>   <!-- R -->
+    <th><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/></th>   <!-- git -->
+    <th><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/></th>   <!-- css -->
+    <th><img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white"/></th>   <!-- arduino -->
+  </tr>
+  <tr>
+    <th><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></th>   <!-- jupyter -->
+    <th><img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/></th>   <!-- scala -->
+    <th><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></th>   <!-- mysql -->
+    <th><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></th>   <!-- c++ -->
+  </tr>
+  <tr>
+    <th><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></th>   <!-- pytorch -->
+    <th></th>
+    <th><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/></th>   <!-- php -->
+    <th></th>
+  </tr>
+  <tr>
+    <th><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></th>   <!-- tensorflow -->
+    <th></th>
+    <th><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></th>   <!-- javascript -->
+    <th></th>
+  </tr>
+</table>
+</div>
+
+
+# 📊 Stats
+
+<div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurDelannoyazerty&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurDelannoyazerty&theme=transparent)
+</div>
+
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ArthurDelannoyAzerty&style=flat-square&color=blue" alt="" onclick="return false;"/>
 </div>
