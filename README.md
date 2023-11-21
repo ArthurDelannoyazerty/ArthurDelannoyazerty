@@ -39,7 +39,6 @@ Here is one of my last main personnal project :
 	</a>
 </p>
 
-<br>
 
 # 📚 Skills
 
