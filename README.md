@@ -15,7 +15,7 @@ Here is one of my last main personnal project :
     <tr>
       <th>
         <div align="left" >
-          <a href="https://github.com/vuejs/vue](https://github.com/ArthurDelannoyazerty/OpenCV-GUI">OpenCV-GUI</a> <br/><br/>
+          <a href="https://github.com/ArthurDelannoyazerty/OpenCV-GUI">OpenCV-GUI</a> <br/><br/>
           A local GUI program that provide a real-time transformation<br/>
           of the image pipeline with customizable OpenCV functions.<br/>
           (exe available)<br/>
