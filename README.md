@@ -25,6 +25,8 @@ Here is one of my last main personnal project :
   </table>
 </div><br/>
 
+You can also find many snippets of simple & useful code in my [gist account](https://gist.github.com/ArthurDelannoyazerty). These are often simple python functions of a few lines that can be copy pasted into your projects. My gist contains comments that give an example of use and a result of the given gist.
+
 # 📭 Contact
 
 <p align="center">
