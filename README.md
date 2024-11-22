@@ -4,7 +4,7 @@
 
 # 👦 About me 
 
-I'm a french student in the final year of a master's degree in computer science as ESEO, with a focus on Artificial Intelligence.
+I'm a french R&D engineer in the spatial dsector that create AI. 
 
 You can find in my repositories many school projects, personnal projects and some code for competitions.
 
