@@ -97,3 +97,13 @@ You can also find many snippets of simple & useful code in my [gist summary](htt
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=ArthurDelannoyAzerty&style=flat-square&color=blue" alt="" onclick="return false;"/>
 </div>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ArthurDelannoyazerty?pet-id=657498787666317942"
+    width="600"
+    height="120"
+  />
+</a>
+  
