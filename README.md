@@ -4,7 +4,7 @@
 
 # 👦 About me 
 
-I'm a french R&D engineer in the spatial dsector that create AI. 
+I'm a french R&D engineer in the spatial sector that works on AI. 
 
 You can find in my repositories many school projects, personnal projects and some code for competitions.
 
