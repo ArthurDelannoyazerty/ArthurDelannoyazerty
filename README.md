@@ -10,19 +10,26 @@ You can find in my repositories many school projects, personnal projects and som
 
 Here is one of my last main personnal project : 
 <br/><br/>
-<div align="center">
-  <table>
-    <tr>
-      <th>
-        <div align="left" >
-          <a href="https://github.com/ArthurDelannoyazerty/OpenCV-GUI">OpenCV-GUI</a> <br/><br/>
-          A local GUI program that provide a real-time transformation<br/>
-          of the image pipeline with customizable OpenCV functions.<br/>
-          (exe available)<br/>
-        </div>
-      </th>
-    </tr>
-  </table>
+<div>
+	<table>
+		<tr>
+			<td>
+				<div>
+          				<a href="https://github.com/ArthurDelannoyazerty/OpenCV-GUI">OpenCV-GUI</a> <br/><br/>
+          				A local GUI program that provide a real-time transformation<br/>
+          				of the image pipeline with customizable OpenCV functions.<br/>
+          				(exe available)<br/>
+        			</div>
+      			</td>
+			<td>
+        			<div>
+          				<a href="https://github.com/ArthurDelannoyazerty/France-3D">France 3D</a> <br/><br/>
+          				Generate a detailled 3D model of a zone in France. <br/>
+          				(Ground, Vegetation, Buildings) (>10 points/m²)<br/>
+        			</div>
+			</td>
+      		</tr>
+  	</table>
 </div><br/>
 
 You can also find many snippets of simple & useful code in my [gist summary](https://github.com/ArthurDelannoyazerty/my-gists/). These are often simple python functions of a few lines that can be copy pasted into your projects. My gist contains comments that give an example of use and a result of the given gist.
