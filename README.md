@@ -8,7 +8,7 @@ I'm a french R&D engineer in the spatial sector that works on AI.
 
 You can find in my repositories many school projects, personnal projects and some code for competitions.
 
-Here is one of my last main personnal project : 
+Here are some of my main personnal projects : 
 <br/><br/>
 <div>
 	<table>
