@@ -10,20 +10,21 @@ You can find in my repositories many school projects, personnal projects and som
 
 Here are some of my main personnal projects : 
 <br/><br/>
-<div>
+<div align="center">
 	<table>
 		<tr>
 			<td>
-				<div>
-          				<a href="https://github.com/ArthurDelannoyazerty/OpenCV-GUI">OpenCV-GUI</a> <br/><br/>
+				<div align="left">
+					<a href="https://github.com/ArthurDelannoyazerty/OpenCV-GUI">OpenCV-GUI</a> <br/><br/>
           				A local GUI program that provide a real-time transformation<br/>
           				of the image pipeline with customizable OpenCV functions.<br/>
-          				(exe available)<br/>
+          				(exe available)
         			</div>
       			</td>
+			<td width="20px"></td> <!-- Empty space between divs -->
 			<td>
-        			<div>
-          				<a href="https://github.com/ArthurDelannoyazerty/France-3D">France 3D</a> <br/><br/>
+        			<div align="left">
+          				<a href="https://github.com/ArthurDelannoyazerty/France-3D">France 3D</a> <br/>
           				Generate a detailled 3D model of a zone in France. <br/>
           				(Ground, Vegetation, Buildings) (>10 points/m²)<br/>
         			</div>
