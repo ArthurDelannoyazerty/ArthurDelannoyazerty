@@ -15,7 +15,7 @@ Here are some of my main personnal projects :
 		<tr>
 			<td>
 				<div align="left">
-					<a href="https://github.com/ArthurDelannoyazerty/OpenCV-GUI">OpenCV-GUI</a> <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/ArthurDelannoyazerty/OpenCV-GUI/total"><br/><br/>
+					<a href="https://github.com/ArthurDelannoyazerty/OpenCV-GUI">OpenCV-GUI <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/ArthurDelannoyazerty/OpenCV-GUI/total"></a><br/><br/>
           				A local GUI program that provide a real-time transformation<br/>
           				of the image pipeline with customizable OpenCV functions.<br/>
           				(exe available)
