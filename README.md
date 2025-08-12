@@ -35,6 +35,8 @@ Here are some of my main personnal projects :
 
 You can also find many snippets of simple & useful code in my [gist summary](https://github.com/ArthurDelannoyazerty/my-gists/). These are often simple python functions of a few lines that can be copy pasted into your projects. My gist contains comments that give an example of use and a result of the given gist.
 
+Here is the [vercel webpage](https://arthur-delannoyazerty-github-io.vercel.app/index.html) that copy this presentation, but also have some other tool : gist scanning (for LLM prompt)
+
 # 📭 Contact
 
 <p align="center">
